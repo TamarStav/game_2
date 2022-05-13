@@ -1,0 +1,15 @@
+L:\שנה ב\מהט\WPF\תמר סתיו\Wpf1_XO\Wpf1_XO\bin\Debug\Wpf1_XO.exe.config
+L:\שנה ב\מהט\WPF\תמר סתיו\Wpf1_XO\Wpf1_XO\bin\Debug\Wpf1_XO.exe
+L:\שנה ב\מהט\WPF\תמר סתיו\Wpf1_XO\Wpf1_XO\bin\Debug\Wpf1_XO.pdb
+L:\שנה ב\מהט\WPF\תמר סתיו\Wpf1_XO\Wpf1_XO\obj\Debug\Wpf1_XO.csprojAssemblyReference.cache
+L:\שנה ב\מהט\WPF\תמר סתיו\Wpf1_XO\Wpf1_XO\obj\Debug\MainWindow.g.cs
+L:\שנה ב\מהט\WPF\תמר סתיו\Wpf1_XO\Wpf1_XO\obj\Debug\App.g.cs
+L:\שנה ב\מהט\WPF\תמר סתיו\Wpf1_XO\Wpf1_XO\obj\Debug\Wpf1_XO_MarkupCompile.cache
+L:\שנה ב\מהט\WPF\תמר סתיו\Wpf1_XO\Wpf1_XO\obj\Debug\Wpf1_XO_MarkupCompile.lref
+L:\שנה ב\מהט\WPF\תמר סתיו\Wpf1_XO\Wpf1_XO\obj\Debug\MainWindow.baml
+L:\שנה ב\מהט\WPF\תמר סתיו\Wpf1_XO\Wpf1_XO\obj\Debug\Wpf1_XO.g.resources
+L:\שנה ב\מהט\WPF\תמר סתיו\Wpf1_XO\Wpf1_XO\obj\Debug\Wpf1_XO.Properties.Resources.resources
+L:\שנה ב\מהט\WPF\תמר סתיו\Wpf1_XO\Wpf1_XO\obj\Debug\Wpf1_XO.csproj.GenerateResource.cache
+L:\שנה ב\מהט\WPF\תמר סתיו\Wpf1_XO\Wpf1_XO\obj\Debug\Wpf1_XO.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\WPF\תמר סתיו\Wpf1_XO\Wpf1_XO\obj\Debug\Wpf1_XO.exe
+L:\שנה ב\מהט\WPF\תמר סתיו\Wpf1_XO\Wpf1_XO\obj\Debug\Wpf1_XO.pdb
